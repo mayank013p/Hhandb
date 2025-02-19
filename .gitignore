@@ -1,0 +1,31 @@
+# Environment variables
+.env
+*.env
+
+# Application properties
+src/main/resources/application.properties
+
+# Log files
+*.log
+logs/
+
+# Build directories
+target/
+bin/
+build/
+
+# IDE specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
